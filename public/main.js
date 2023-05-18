@@ -5,7 +5,7 @@ function giveItem(){
 }
 
 function getItem(){
-    axios.get("http://184.169.193.178/get-object")
+    axios.get("http://54.219.130.239/get-object")
     .then((res) => {alert("You got a " + res.data.name)})
     .catch((err) => {console.log(err)})
 }
