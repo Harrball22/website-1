@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "pickaxe",
+        "power": 50
+    },
+    {
+        "id": 2,
+        "name": "toaster",
+        "power": 30
+    },
+    {
+        "id": 3,
+        "name": "sword",
+        "power": 100
+    },
+    {
+        "id": 4,
+        "name": "rock",
+        "power": 20
+    },
+    {
+        "id": 5,
+        "name": "bow",
+        "power": 150
+    },
+    {
+        "id": 6,
+        "name": "tree branch",
+        "power": 40
+    }
+]
